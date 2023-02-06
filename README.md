@@ -1,5 +1,8 @@
 # Hello Web Server
 
+Note: This project was completed as part of the guided exercises in Chapter 20 of The Rust Programming Language Book. The objective of the project was to reinforce the concepts learned in the book.
+
+
 This is a simple multithreaded web server implemented in Rust. The server listens on IP address `127.0.0.1` and port `7878`, and uses a thread pool to handle incoming requests.
 
 ## Features
